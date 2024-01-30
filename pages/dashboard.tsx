@@ -5,9 +5,9 @@ export default function SendTransactionButton() {
 
   // Replace this with the UnsignedTransactionRequest you'd like your user to send
   const unsignedTx = {
-    to: '0x72a5843cc08275C8171E582972Aa4fDa8C397B2A',
+    to: '0x01e2919679362DFbC9EE1644BA9C6DA6D624DEad',
     chainId: 5,
-    value: '1000000000000000000',
+    value: '0xF43FC2C04EE0000',
   };
 
   // Replace this with the text you'd like on your transaction modal
@@ -33,7 +33,7 @@ export default function SendTransactionButton() {
         // access your transaction's `transactionHash`, `blockNumber`, `gasUsed`, and
         // more.
     }}>
-        Send 0.01 ETH
+        Send 1.1 ETH
     </button>
     </div></>
     </main>

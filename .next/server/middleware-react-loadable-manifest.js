@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"../node_modules/@walletconnect/ethereum-provider/dist/index.es.js -> @walletconnect/modal":{"id":9343,"files":["static/chunks/343.dddd4cfae9b0ce42.js"]},"../node_modules/@walletconnect/modal/dist/index.js -> @walletconnect/modal-ui":{"id":1391,"files":["static/chunks/391.b5d44308ad3ccf3b.js"]}}';

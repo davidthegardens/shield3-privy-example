@@ -8,7 +8,7 @@ https://xxxxx
 
 This is a template for integrating [**Privy**](https://www.privy.io/) and [**Shield3**](https://www.shield3.com/) into a [NextJS](https://nextjs.org/) project. 
 
-This example will prompt you to send 1 ETH to an OFAC Sanctioned Address on Goerli
+This example will prompt you to send 1 ETH to a mock OFAC Sanctioned Address on Goerli. This address is 0x01e2919679362dfbc9ee1644ba9c6da6d624dead, it is not actually sanctioned but is used in Shield3 to test sending to sanctioned addresses without running the risk of sending to a legitimately sanctioned address.
 
 You can test this by logging into the app and attempting to transfer goerli ETH. You'll be able to test both native value limit policies, and OFAC Sanction blocking. You will need some testnet ETH in your privy wallet to test this out.
 
